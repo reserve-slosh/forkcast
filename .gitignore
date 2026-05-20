@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+state.json        # persönlicher State gehört nicht ins Repo
+.env

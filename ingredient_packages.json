@@ -1,0 +1,744 @@
+{
+  "meta": {
+    "version": "1.0",
+    "created": "2026-05-15",
+    "notes": "Typische Supermarkt-Packungsgrößen (DE). Basis für Zutaten-Wiederverwendungs-Scoring über mehrere Wochen."
+  },
+  "packages": [
+    {
+      "name": "Karotte",
+      "package_size": 1000,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 14
+    },
+    {
+      "name": "Kartoffel",
+      "package_size": 2000,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 30
+    },
+    {
+      "name": "Kartoffel (mehligkochend)",
+      "package_size": 2000,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 30
+    },
+    {
+      "name": "Zwiebel",
+      "package_size": 1000,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 30
+    },
+    {
+      "name": "Rote Zwiebel",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 21
+    },
+    {
+      "name": "Knoblauch",
+      "package_size": 40,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 21
+    },
+    {
+      "name": "Ingwer (frisch)",
+      "package_size": 100,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 14
+    },
+    {
+      "name": "Zucchini",
+      "package_size": 600,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 7
+    },
+    {
+      "name": "Aubergine",
+      "package_size": 300,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 7
+    },
+    {
+      "name": "Brokkoli",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 5
+    },
+    {
+      "name": "Blumenkohl",
+      "package_size": 1000,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 7
+    },
+    {
+      "name": "Paprika (rot)",
+      "package_size": 600,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 7
+    },
+    {
+      "name": "Paprika (grün)",
+      "package_size": 600,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 7
+    },
+    {
+      "name": "Paprika (bunt)",
+      "package_size": 600,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 7
+    },
+    {
+      "name": "Lauch",
+      "package_size": 400,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 7
+    },
+    {
+      "name": "Staudensellerie",
+      "package_size": 400,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 7
+    },
+    {
+      "name": "Gurke",
+      "package_size": 400,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 5
+    },
+    {
+      "name": "Tomate",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 5
+    },
+    {
+      "name": "Hokkaido-Kürbis",
+      "package_size": 1500,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 30
+    },
+    {
+      "name": "Süßkartoffel",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 14
+    },
+    {
+      "name": "Rote Bete (vorgekocht)",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 14
+    },
+    {
+      "name": "Spinat (frisch)",
+      "package_size": 200,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 3
+    },
+    {
+      "name": "Blattspinat (TK)",
+      "package_size": 750,
+      "unit": "g",
+      "category": "Gemüse TK",
+      "store_days": 180
+    },
+    {
+      "name": "Erbsen (TK)",
+      "package_size": 750,
+      "unit": "g",
+      "category": "Gemüse TK",
+      "store_days": 180
+    },
+    {
+      "name": "Mais (Dose)",
+      "package_size": 285,
+      "unit": "g",
+      "category": "Konserven",
+      "store_days": 730
+    },
+    {
+      "name": "Sojasprossen",
+      "package_size": 300,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 5
+    },
+    {
+      "name": "Frühlingszwiebeln",
+      "package_size": 100,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 5
+    },
+    {
+      "name": "Avocado",
+      "package_size": 200,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 3
+    },
+    {
+      "name": "Tofu (fest)",
+      "package_size": 400,
+      "unit": "g",
+      "category": "Protein",
+      "store_days": 5
+    },
+    {
+      "name": "Tofu (seide)",
+      "package_size": 350,
+      "unit": "g",
+      "category": "Protein",
+      "store_days": 5
+    },
+    {
+      "name": "Tempeh",
+      "package_size": 200,
+      "unit": "g",
+      "category": "Protein",
+      "store_days": 7
+    },
+    {
+      "name": "Ei",
+      "package_size": 10,
+      "unit": "Stück",
+      "category": "Protein",
+      "store_days": 28
+    },
+    {
+      "name": "Kichererbsen (Dose)",
+      "package_size": 400,
+      "unit": "g",
+      "category": "Hülsenfrüchte",
+      "store_days": 730
+    },
+    {
+      "name": "Kidneybohnen (Dose)",
+      "package_size": 400,
+      "unit": "g",
+      "category": "Hülsenfrüchte",
+      "store_days": 730
+    },
+    {
+      "name": "Weiße Bohnen (Dose)",
+      "package_size": 400,
+      "unit": "g",
+      "category": "Hülsenfrüchte",
+      "store_days": 730
+    },
+    {
+      "name": "Schwarze Bohnen (Dose)",
+      "package_size": 400,
+      "unit": "g",
+      "category": "Hülsenfrüchte",
+      "store_days": 730
+    },
+    {
+      "name": "Rote Linsen",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Hülsenfrüchte",
+      "store_days": 365
+    },
+    {
+      "name": "Grüne Linsen",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Hülsenfrüchte",
+      "store_days": 365
+    },
+    {
+      "name": "Tomaten, gehackt (Dose)",
+      "package_size": 400,
+      "unit": "g",
+      "category": "Konserven",
+      "store_days": 730
+    },
+    {
+      "name": "Kokosmilch",
+      "package_size": 400,
+      "unit": "ml",
+      "category": "Konserven",
+      "store_days": 730
+    },
+    {
+      "name": "Gemüsebrühe",
+      "package_size": 1000,
+      "unit": "ml",
+      "category": "Konserven",
+      "store_days": 365
+    },
+    {
+      "name": "Spaghetti",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 730
+    },
+    {
+      "name": "Penne",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 730
+    },
+    {
+      "name": "Tagliatelle",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 730
+    },
+    {
+      "name": "Pappardelle",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 730
+    },
+    {
+      "name": "Lasagneplatten",
+      "package_size": 250,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 730
+    },
+    {
+      "name": "Kleine Pasta (Ditalini)",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 730
+    },
+    {
+      "name": "Ramen-Nudeln",
+      "package_size": 300,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 365
+    },
+    {
+      "name": "Reisnudeln (breit)",
+      "package_size": 250,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 365
+    },
+    {
+      "name": "Gnocchi",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 30
+    },
+    {
+      "name": "Weizenmehl",
+      "package_size": 1000,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 365
+    },
+    {
+      "name": "Kartoffelstärke",
+      "package_size": 400,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 365
+    },
+    {
+      "name": "Paniermehl",
+      "package_size": 400,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 180
+    },
+    {
+      "name": "Basmati-Reis",
+      "package_size": 1000,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 730
+    },
+    {
+      "name": "Jasminreis",
+      "package_size": 1000,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 730
+    },
+    {
+      "name": "Langkornreis",
+      "package_size": 1000,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 730
+    },
+    {
+      "name": "Arborio-Reis",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 730
+    },
+    {
+      "name": "Quinoa",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 365
+    },
+    {
+      "name": "Bulgur",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 365
+    },
+    {
+      "name": "Couscous",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Getreide",
+      "store_days": 365
+    },
+    {
+      "name": "Ricotta",
+      "package_size": 250,
+      "unit": "g",
+      "category": "Milch/Käse",
+      "store_days": 7
+    },
+    {
+      "name": "Mozzarella",
+      "package_size": 250,
+      "unit": "g",
+      "category": "Milch/Käse",
+      "store_days": 7
+    },
+    {
+      "name": "Parmesan",
+      "package_size": 100,
+      "unit": "g",
+      "category": "Milch/Käse",
+      "store_days": 30
+    },
+    {
+      "name": "Feta",
+      "package_size": 200,
+      "unit": "g",
+      "category": "Milch/Käse",
+      "store_days": 14
+    },
+    {
+      "name": "Halloumi",
+      "package_size": 225,
+      "unit": "g",
+      "category": "Milch/Käse",
+      "store_days": 14
+    },
+    {
+      "name": "Gruyère",
+      "package_size": 150,
+      "unit": "g",
+      "category": "Milch/Käse",
+      "store_days": 14
+    },
+    {
+      "name": "Emmentaler",
+      "package_size": 200,
+      "unit": "g",
+      "category": "Milch/Käse",
+      "store_days": 14
+    },
+    {
+      "name": "Crème fraîche",
+      "package_size": 200,
+      "unit": "g",
+      "category": "Milch/Käse",
+      "store_days": 14
+    },
+    {
+      "name": "Sahne",
+      "package_size": 200,
+      "unit": "ml",
+      "category": "Milch/Käse",
+      "store_days": 14
+    },
+    {
+      "name": "Milch",
+      "package_size": 1000,
+      "unit": "ml",
+      "category": "Milch/Käse",
+      "store_days": 7
+    },
+    {
+      "name": "Pflanzenmilch",
+      "package_size": 1000,
+      "unit": "ml",
+      "category": "Milch/Käse",
+      "store_days": 7
+    },
+    {
+      "name": "Butter",
+      "package_size": 250,
+      "unit": "g",
+      "category": "Milch/Käse",
+      "store_days": 30
+    },
+    {
+      "name": "Joghurt",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Milch/Käse",
+      "store_days": 14
+    },
+    {
+      "name": "Kokosjoghurt",
+      "package_size": 400,
+      "unit": "ml",
+      "category": "Milch/Käse",
+      "store_days": 14
+    },
+    {
+      "name": "Tahini",
+      "package_size": 250,
+      "unit": "g",
+      "category": "Saucen/Öle",
+      "store_days": 180
+    },
+    {
+      "name": "Erdnussbutter",
+      "package_size": 350,
+      "unit": "g",
+      "category": "Saucen/Öle",
+      "store_days": 180
+    },
+    {
+      "name": "Harissa",
+      "package_size": 130,
+      "unit": "g",
+      "category": "Saucen/Öle",
+      "store_days": 180
+    },
+    {
+      "name": "Miso-Paste (weiß)",
+      "package_size": 400,
+      "unit": "g",
+      "category": "Saucen/Öle",
+      "store_days": 180
+    },
+    {
+      "name": "Gochujang",
+      "package_size": 200,
+      "unit": "g",
+      "category": "Saucen/Öle",
+      "store_days": 180
+    },
+    {
+      "name": "Grüne Currypaste",
+      "package_size": 50,
+      "unit": "g",
+      "category": "Saucen/Öle",
+      "store_days": 180
+    },
+    {
+      "name": "Tamarindenpaste",
+      "package_size": 200,
+      "unit": "g",
+      "category": "Saucen/Öle",
+      "store_days": 180
+    },
+    {
+      "name": "Hoisin-Sauce",
+      "package_size": 200,
+      "unit": "ml",
+      "category": "Saucen/Öle",
+      "store_days": 180
+    },
+    {
+      "name": "Sojasauce",
+      "package_size": 150,
+      "unit": "ml",
+      "category": "Saucen/Öle",
+      "store_days": 365
+    },
+    {
+      "name": "Sesamöl",
+      "package_size": 250,
+      "unit": "ml",
+      "category": "Saucen/Öle",
+      "store_days": 365
+    },
+    {
+      "name": "Olivenöl",
+      "package_size": 750,
+      "unit": "ml",
+      "category": "Saucen/Öle",
+      "store_days": 365
+    },
+    {
+      "name": "Pflanzenöl",
+      "package_size": 1000,
+      "unit": "ml",
+      "category": "Saucen/Öle",
+      "store_days": 365
+    },
+    {
+      "name": "Tomatenmark",
+      "package_size": 200,
+      "unit": "g",
+      "category": "Saucen/Öle",
+      "store_days": 14
+    },
+    {
+      "name": "Walnüsse",
+      "package_size": 200,
+      "unit": "g",
+      "category": "Sonstiges",
+      "store_days": 90
+    },
+    {
+      "name": "Sesam",
+      "package_size": 125,
+      "unit": "g",
+      "category": "Sonstiges",
+      "store_days": 180
+    },
+    {
+      "name": "Erdnüsse (geröstet)",
+      "package_size": 200,
+      "unit": "g",
+      "category": "Sonstiges",
+      "store_days": 90
+    },
+    {
+      "name": "Apfelmus",
+      "package_size": 700,
+      "unit": "g",
+      "category": "Sonstiges",
+      "store_days": 14
+    },
+    {
+      "name": "Sauerkraut",
+      "package_size": 500,
+      "unit": "g",
+      "category": "Sonstiges",
+      "store_days": 30
+    },
+    {
+      "name": "Weißwein",
+      "package_size": 750,
+      "unit": "ml",
+      "category": "Sonstiges",
+      "store_days": 3
+    },
+    {
+      "name": "Pita-Brot",
+      "package_size": 4,
+      "unit": "Stück",
+      "category": "Brot",
+      "store_days": 5
+    },
+    {
+      "name": "Baguette",
+      "package_size": 1,
+      "unit": "Stück",
+      "category": "Brot",
+      "store_days": 2
+    },
+    {
+      "name": "Weizentortillas (groß)",
+      "package_size": 8,
+      "unit": "Stück",
+      "category": "Brot",
+      "store_days": 14
+    },
+    {
+      "name": "Taco-Shells",
+      "package_size": 12,
+      "unit": "Stück",
+      "category": "Brot",
+      "store_days": 180
+    },
+    {
+      "name": "Filoteig",
+      "package_size": 250,
+      "unit": "g",
+      "category": "Brot",
+      "store_days": 5
+    },
+    {
+      "name": "Nori-Blätter",
+      "package_size": 10,
+      "unit": "Stück",
+      "category": "Sonstiges",
+      "store_days": 365
+    },
+    {
+      "name": "Zitronengras",
+      "package_size": 2,
+      "unit": "Stangen",
+      "category": "Gemüse",
+      "store_days": 14
+    },
+    {
+      "name": "Zitrone",
+      "package_size": 4,
+      "unit": "Stück",
+      "category": "Gemüse",
+      "store_days": 14
+    },
+    {
+      "name": "Limette",
+      "package_size": 4,
+      "unit": "Stück",
+      "category": "Gemüse",
+      "store_days": 14
+    },
+    {
+      "name": "Pilze (gemischt)",
+      "package_size": 400,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 5
+    },
+    {
+      "name": "Pilze (braun)",
+      "package_size": 400,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 5
+    },
+    {
+      "name": "Pilze (Shiitake)",
+      "package_size": 200,
+      "unit": "g",
+      "category": "Gemüse",
+      "store_days": 5
+    }
+  ]
+}

@@ -1,0 +1,5513 @@
+{
+  "meta": {
+    "servings_default": 4,
+    "version": "1.0",
+    "created": "2026-05-15",
+    "total": 70,
+    "notes": "Vegetarisch/veganer Rezeptdatensatz. 4 Portionen Standard. Kein Zimt, keine Vanille."
+  },
+  "recipes": [
+    {
+      "id": "spaghetti_aglio_olio",
+      "name": "Spaghetti Aglio e Olio",
+      "cuisine": "Italienisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 5,
+      "cook_time_min": 15,
+      "servings": 4,
+      "tags": [
+        "Pasta",
+        "schnell",
+        "einfach",
+        "mild scharf"
+      ],
+      "ingredients": [
+        {
+          "name": "Spaghetti",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 6,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 80,
+          "unit": "ml"
+        },
+        {
+          "name": "Chiliflocken",
+          "amount": 0.5,
+          "unit": "TL"
+        },
+        {
+          "name": "Petersilie",
+          "amount": 1,
+          "unit": "Bund"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "pasta_tomatensosse",
+      "name": "Pasta mit Tomatensoße",
+      "cuisine": "Italienisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 5,
+      "cook_time_min": 20,
+      "servings": 4,
+      "tags": [
+        "Pasta",
+        "einfach",
+        "Klassiker"
+      ],
+      "ingredients": [
+        {
+          "name": "Penne",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Tomatenmark",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Basilikum",
+          "amount": 1,
+          "unit": "Bund"
+        },
+        {
+          "name": "Zucker",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "pasta_spinat_ricotta",
+      "name": "Pasta mit Spinat und Ricotta",
+      "cuisine": "Italienisch",
+      "diet": "vegetarisch",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 10,
+      "cook_time_min": 15,
+      "servings": 4,
+      "tags": [
+        "Pasta",
+        "cremig",
+        "Spinat"
+      ],
+      "ingredients": [
+        {
+          "name": "Tagliatelle",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Blattspinat (TK)",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Ricotta",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 3,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Parmesan",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Muskatnuss",
+          "amount": 0.25,
+          "unit": "TL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "kaesespaetzle",
+      "name": "Käsespätzle",
+      "cuisine": "Deutsch",
+      "diet": "vegetarisch",
+      "season": [
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 20,
+      "cook_time_min": 20,
+      "servings": 4,
+      "tags": [
+        "Deutsch",
+        "Klassiker",
+        "herzhaft",
+        "comfort food"
+      ],
+      "ingredients": [
+        {
+          "name": "Weizenmehl",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Ei",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "name": "Milch",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Wasser",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "Emmentaler",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 3,
+          "unit": "Stück"
+        },
+        {
+          "name": "Butter",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "Muskatnuss",
+          "amount": 0.25,
+          "unit": "TL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "pasta_e_fagioli",
+      "name": "Pasta e Fagioli",
+      "cuisine": "Italienisch",
+      "diet": "vegan",
+      "season": [
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 10,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Pasta",
+        "Hülsenfrüchte",
+        "Eintopf",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Kleine Pasta (Ditalini)",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Weiße Bohnen (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Karotte",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Staudensellerie",
+          "amount": 2,
+          "unit": "Stangen"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 1000,
+          "unit": "ml"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Rosmarin",
+          "amount": 1,
+          "unit": "Zweig"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "penne_arrabiata",
+      "name": "Penne Arrabiata",
+      "cuisine": "Italienisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 5,
+      "cook_time_min": 20,
+      "servings": 4,
+      "tags": [
+        "Pasta",
+        "scharf",
+        "einfach"
+      ],
+      "ingredients": [
+        {
+          "name": "Penne",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Chiliflocken",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 4,
+          "unit": "EL"
+        },
+        {
+          "name": "Petersilie",
+          "amount": 1,
+          "unit": "Bund"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "pasta_kuerbis_salbei",
+      "name": "Pasta mit Kürbis und Salbei",
+      "cuisine": "Italienisch",
+      "diet": "vegetarisch",
+      "season": [
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 15,
+      "cook_time_min": 25,
+      "servings": 4,
+      "tags": [
+        "Pasta",
+        "Kürbis",
+        "herbstlich",
+        "süßlich"
+      ],
+      "ingredients": [
+        {
+          "name": "Pappardelle",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Hokkaido-Kürbis",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Butter",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Salbei",
+          "amount": 10,
+          "unit": "Blätter"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 2,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Parmesan",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "Muskatnuss",
+          "amount": 0.25,
+          "unit": "TL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "gnocchi_caprese",
+      "name": "Gnocchi Caprese",
+      "cuisine": "Italienisch",
+      "diet": "vegetarisch",
+      "season": [
+        "summer"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 10,
+      "cook_time_min": 15,
+      "servings": 4,
+      "tags": [
+        "Pasta",
+        "Sommer",
+        "frisch"
+      ],
+      "ingredients": [
+        {
+          "name": "Gnocchi",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Tomate",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Mozzarella",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Basilikum",
+          "amount": 1,
+          "unit": "Bund"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 2,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 4,
+          "unit": "EL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "pasta_zucchini_zitrone",
+      "name": "Pasta mit Zucchini und Zitrone",
+      "cuisine": "Italienisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 10,
+      "cook_time_min": 15,
+      "servings": 4,
+      "tags": [
+        "Pasta",
+        "leicht",
+        "Sommer",
+        "frisch"
+      ],
+      "ingredients": [
+        {
+          "name": "Spaghetti",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Zucchini",
+          "amount": 3,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zitrone",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 3,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 5,
+          "unit": "EL"
+        },
+        {
+          "name": "Petersilie",
+          "amount": 1,
+          "unit": "Bund"
+        },
+        {
+          "name": "Chiliflocken",
+          "amount": 0.25,
+          "unit": "TL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "vegetarische_lasagne",
+      "name": "Vegetarische Lasagne",
+      "cuisine": "Italienisch",
+      "diet": "vegetarisch",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 30,
+      "cook_time_min": 45,
+      "servings": 4,
+      "tags": [
+        "Pasta",
+        "Ofen",
+        "Klassiker",
+        "aufwändig"
+      ],
+      "ingredients": [
+        {
+          "name": "Lasagneplatten",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Zucchini",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Aubergine",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 3,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Butter",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Weizenmehl",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Milch",
+          "amount": 600,
+          "unit": "ml"
+        },
+        {
+          "name": "Parmesan",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Muskatnuss",
+          "amount": 0.25,
+          "unit": "TL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "rote_linsensuppe",
+      "name": "Rote Linsensuppe",
+      "cuisine": "Naher Osten",
+      "diet": "vegan",
+      "season": [
+        "autumn",
+        "winter",
+        "spring"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 10,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Suppe",
+        "Hülsenfrüchte",
+        "einfach",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Rote Linsen",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Karotte",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 3,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 1200,
+          "unit": "ml"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Kreuzkümmel",
+          "amount": 2,
+          "unit": "TL"
+        },
+        {
+          "name": "Kurkuma",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Paprikapulver",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Zitrone",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "tomaten_basilikum_suppe",
+      "name": "Tomaten-Basilikum-Suppe",
+      "cuisine": "Italienisch",
+      "diet": "vegan",
+      "season": [
+        "summer",
+        "autumn"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 10,
+      "cook_time_min": 25,
+      "servings": 4,
+      "tags": [
+        "Suppe",
+        "einfach",
+        "Klassiker",
+        "frisch"
+      ],
+      "ingredients": [
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 1200,
+          "unit": "g"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Basilikum",
+          "amount": 1,
+          "unit": "Bund"
+        },
+        {
+          "name": "Zucker",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "kuerbissuppe",
+      "name": "Kürbissuppe",
+      "cuisine": "Deutsch",
+      "diet": "vegan",
+      "season": [
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 15,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Suppe",
+        "herbstlich",
+        "cremig",
+        "Kürbis"
+      ],
+      "ingredients": [
+        {
+          "name": "Hokkaido-Kürbis",
+          "amount": 1000,
+          "unit": "g"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 2,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Ingwer (frisch)",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "Kokosmilch",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 600,
+          "unit": "ml"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Kurkuma",
+          "amount": 0.5,
+          "unit": "TL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "kartoffelsuppe",
+      "name": "Kartoffelsuppe",
+      "cuisine": "Deutsch",
+      "diet": "vegan",
+      "season": [
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 15,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Suppe",
+        "Deutsch",
+        "Klassiker",
+        "comfort food"
+      ],
+      "ingredients": [
+        {
+          "name": "Kartoffel",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Karotte",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Lauch",
+          "amount": 1,
+          "unit": "Stangen"
+        },
+        {
+          "name": "Staudensellerie",
+          "amount": 2,
+          "unit": "Stangen"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 1200,
+          "unit": "ml"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Petersilie",
+          "amount": 1,
+          "unit": "Bund"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "moehren_ingwer_suppe",
+      "name": "Möhren-Ingwer-Suppe",
+      "cuisine": "International",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 10,
+      "cook_time_min": 25,
+      "servings": 4,
+      "tags": [
+        "Suppe",
+        "cremig",
+        "gesund",
+        "leicht"
+      ],
+      "ingredients": [
+        {
+          "name": "Karotte",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Ingwer (frisch)",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 2,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Kokosmilch",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 800,
+          "unit": "ml"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Limette",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "minestrone",
+      "name": "Minestrone",
+      "cuisine": "Italienisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 15,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Suppe",
+        "Gemüse",
+        "Hülsenfrüchte"
+      ],
+      "ingredients": [
+        {
+          "name": "Kleine Pasta (Ditalini)",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Weiße Bohnen (Dose)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Karotte",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zucchini",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Staudensellerie",
+          "amount": 2,
+          "unit": "Stangen"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 3,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 1200,
+          "unit": "ml"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Basilikum",
+          "amount": 1,
+          "unit": "Bund"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "schwarze_bohnen_suppe",
+      "name": "Schwarze-Bohnen-Suppe",
+      "cuisine": "Lateinamerikanisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 10,
+      "cook_time_min": 25,
+      "servings": 4,
+      "tags": [
+        "Suppe",
+        "Hülsenfrüchte",
+        "herzhaft",
+        "Mexikanisch"
+      ],
+      "ingredients": [
+        {
+          "name": "Schwarze Bohnen (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Paprika (rot)",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 600,
+          "unit": "ml"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Kreuzkümmel",
+          "amount": 2,
+          "unit": "TL"
+        },
+        {
+          "name": "Paprikapulver (geräuchert)",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Limette",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Koriander (frisch)",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "dal_tadka",
+      "name": "Dal Tadka",
+      "cuisine": "Indisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 10,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Indisch",
+        "Hülsenfrüchte",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Rote Linsen",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Ingwer (frisch)",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 800,
+          "unit": "ml"
+        },
+        {
+          "name": "Pflanzenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Kreuzkümmel",
+          "amount": 2,
+          "unit": "TL"
+        },
+        {
+          "name": "Kurkuma",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Koriander (gemahlen)",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Garam Masala",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Chiliflocken",
+          "amount": 0.5,
+          "unit": "TL"
+        },
+        {
+          "name": "Basmati-Reis",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "weisser_bohnen_eintopf",
+      "name": "Weißer-Bohnen-Eintopf",
+      "cuisine": "Mediterran",
+      "diet": "vegan",
+      "season": [
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 10,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Eintopf",
+        "Hülsenfrüchte",
+        "herzhaft",
+        "comfort food"
+      ],
+      "ingredients": [
+        {
+          "name": "Weiße Bohnen (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Karotte",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Lauch",
+          "amount": 2,
+          "unit": "Stangen"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 600,
+          "unit": "ml"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Rosmarin",
+          "amount": 1,
+          "unit": "Zweig"
+        },
+        {
+          "name": "Thymian",
+          "amount": 2,
+          "unit": "Zweige"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "franzoesische_zwiebelsuppe",
+      "name": "Französische Zwiebelsuppe",
+      "cuisine": "Französisch",
+      "diet": "vegetarisch",
+      "season": [
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 15,
+      "cook_time_min": 50,
+      "servings": 4,
+      "tags": [
+        "Suppe",
+        "Klassiker",
+        "herzhaft",
+        "überbacken"
+      ],
+      "ingredients": [
+        {
+          "name": "Zwiebel",
+          "amount": 1000,
+          "unit": "g"
+        },
+        {
+          "name": "Butter",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Zucker",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Weißwein",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 1000,
+          "unit": "ml"
+        },
+        {
+          "name": "Baguette",
+          "amount": 8,
+          "unit": "Scheiben"
+        },
+        {
+          "name": "Gruyère",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Thymian",
+          "amount": 2,
+          "unit": "Zweige"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "rote_bete_suppe",
+      "name": "Rote-Bete-Suppe",
+      "cuisine": "International",
+      "diet": "vegan",
+      "season": [
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 15,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Suppe",
+        "Rote Bete",
+        "cremig",
+        "gesund"
+      ],
+      "ingredients": [
+        {
+          "name": "Rote Bete (vorgekocht)",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Kartoffel",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 2,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Ingwer (frisch)",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 800,
+          "unit": "ml"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Zitrone",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Kokosjoghurt",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "gruene_erbsensuppe",
+      "name": "Grüne Erbsensuppe",
+      "cuisine": "International",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 10,
+      "cook_time_min": 15,
+      "servings": 4,
+      "tags": [
+        "Suppe",
+        "schnell",
+        "leicht",
+        "frisch"
+      ],
+      "ingredients": [
+        {
+          "name": "Erbsen (TK)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Lauch",
+          "amount": 1,
+          "unit": "Stangen"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 2,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 800,
+          "unit": "ml"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Minze",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Zitrone",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "kichererbsen_tikka_masala",
+      "name": "Kichererbsen-Tikka-Masala",
+      "cuisine": "Indisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 15,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Curry",
+        "Indisch",
+        "herzhaft",
+        "Hülsenfrüchte"
+      ],
+      "ingredients": [
+        {
+          "name": "Kichererbsen (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Kokosmilch",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Ingwer (frisch)",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "Pflanzenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Tomatenmark",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Garam Masala",
+          "amount": 2,
+          "unit": "TL"
+        },
+        {
+          "name": "Paprikapulver",
+          "amount": 2,
+          "unit": "TL"
+        },
+        {
+          "name": "Kurkuma",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Kreuzkümmel",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Basmati-Reis",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "gruenes_thai_curry",
+      "name": "Grünes Thai-Curry",
+      "cuisine": "Thailändisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 15,
+      "cook_time_min": 25,
+      "servings": 4,
+      "tags": [
+        "Curry",
+        "Asiatisch",
+        "Kokosmilch",
+        "scharf"
+      ],
+      "ingredients": [
+        {
+          "name": "Kokosmilch",
+          "amount": 800,
+          "unit": "ml"
+        },
+        {
+          "name": "Grüne Currypaste",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Tofu (fest)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Brokkoli",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Paprika (rot)",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zucchini",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Sojasauce",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Sesamöl",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Limette",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Jasminreis",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Koriander (frisch)",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Salz",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "tofu_erdnuss_pfanne",
+      "name": "Tofu-Erdnuss-Pfanne",
+      "cuisine": "Asiatisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 15,
+      "cook_time_min": 20,
+      "servings": 4,
+      "tags": [
+        "Tofu",
+        "Asiatisch",
+        "Erdnuss",
+        "Wok"
+      ],
+      "ingredients": [
+        {
+          "name": "Tofu (fest)",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Brokkoli",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Karotte",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Paprika (rot)",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 3,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Ingwer (frisch)",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "Erdnussbutter",
+          "amount": 4,
+          "unit": "EL"
+        },
+        {
+          "name": "Sojasauce",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Sesamöl",
+          "amount": 1,
+          "unit": "EL"
+        },
+        {
+          "name": "Limette",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Frühlingszwiebeln",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "name": "Sesam",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Basmati-Reis",
+          "amount": 300,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "id": "pad_thai_tofu",
+      "name": "Pad Thai mit Tofu",
+      "cuisine": "Thailändisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 20,
+      "cook_time_min": 20,
+      "servings": 4,
+      "tags": [
+        "Asiatisch",
+        "Nudeln",
+        "Tofu",
+        "Wok"
+      ],
+      "ingredients": [
+        {
+          "name": "Reisnudeln (breit)",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Tofu (fest)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Sojasprossen",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Frühlingszwiebeln",
+          "amount": 6,
+          "unit": "Stück"
+        },
+        {
+          "name": "Karotte",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 3,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Sesamöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Sojasauce",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Tamarindenpaste",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Zucker",
+          "amount": 1,
+          "unit": "EL"
+        },
+        {
+          "name": "Erdnüsse (geröstet)",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "Limette",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Chiliflocken",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "japanisches_curry",
+      "name": "Japanisches Gemüsecurry",
+      "cuisine": "Japanisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 20,
+      "cook_time_min": 35,
+      "servings": 4,
+      "tags": [
+        "Curry",
+        "Japanisch",
+        "herzhaft",
+        "mild"
+      ],
+      "ingredients": [
+        {
+          "name": "Kartoffel",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Karotte",
+          "amount": 3,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Japanische Curry-Roux (Block)",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 800,
+          "unit": "ml"
+        },
+        {
+          "name": "Pflanzenöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Sojasauce",
+          "amount": 1,
+          "unit": "EL"
+        },
+        {
+          "name": "Jasminreis",
+          "amount": 300,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "id": "palak_tofu",
+      "name": "Palak Tofu",
+      "cuisine": "Indisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 15,
+      "cook_time_min": 25,
+      "servings": 4,
+      "tags": [
+        "Indisch",
+        "Curry",
+        "Tofu",
+        "Spinat"
+      ],
+      "ingredients": [
+        {
+          "name": "Tofu (fest)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Blattspinat (TK)",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Kokosmilch",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Ingwer (frisch)",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "Pflanzenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Garam Masala",
+          "amount": 2,
+          "unit": "TL"
+        },
+        {
+          "name": "Kreuzkümmel",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Kurkuma",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Basmati-Reis",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "miso_ramen",
+      "name": "Miso-Ramen",
+      "cuisine": "Japanisch",
+      "diet": "vegetarisch",
+      "season": [
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 20,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Japanisch",
+        "Suppe",
+        "Nudeln",
+        "umami"
+      ],
+      "ingredients": [
+        {
+          "name": "Ramen-Nudeln",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Miso-Paste (weiß)",
+          "amount": 4,
+          "unit": "EL"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 1500,
+          "unit": "ml"
+        },
+        {
+          "name": "Tofu (seide)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Mais (Dose)",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Lauch",
+          "amount": 1,
+          "unit": "Stangen"
+        },
+        {
+          "name": "Ei",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 3,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Ingwer (frisch)",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "Sojasauce",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Sesamöl",
+          "amount": 2,
+          "unit": "TL"
+        },
+        {
+          "name": "Sesam",
+          "amount": 1,
+          "unit": "EL"
+        },
+        {
+          "name": "Nori-Blätter",
+          "amount": 4,
+          "unit": "Stück"
+        }
+      ]
+    },
+    {
+      "id": "tempeh_brokkoli_stir_fry",
+      "name": "Tempeh-Brokkoli-Stir-Fry",
+      "cuisine": "Asiatisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 15,
+      "cook_time_min": 20,
+      "servings": 4,
+      "tags": [
+        "Asiatisch",
+        "Tempeh",
+        "Wok",
+        "schnell"
+      ],
+      "ingredients": [
+        {
+          "name": "Tempeh",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Brokkoli",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Karotte",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Ingwer (frisch)",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "Sojasauce",
+          "amount": 4,
+          "unit": "EL"
+        },
+        {
+          "name": "Sesamöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Hoisin-Sauce",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Frühlingszwiebeln",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "name": "Sesam",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Basmati-Reis",
+          "amount": 300,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "id": "bibimbap",
+      "name": "Bibimbap",
+      "cuisine": "Koreanisch",
+      "diet": "vegetarisch",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 30,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Koreanisch",
+        "Reisschüssel",
+        "bunt",
+        "gesund"
+      ],
+      "ingredients": [
+        {
+          "name": "Jasminreis",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Ei",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "name": "Spinat (frisch)",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Pilze (Shiitake)",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Karotte",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zucchini",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Sojasprossen",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Gochujang",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Sesamöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Sojasauce",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 3,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Sesam",
+          "amount": 2,
+          "unit": "EL"
+        }
+      ]
+    },
+    {
+      "id": "chana_masala",
+      "name": "Chana Masala",
+      "cuisine": "Indisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 10,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Indisch",
+        "Curry",
+        "Hülsenfrüchte",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Kichererbsen (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 5,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Ingwer (frisch)",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "Pflanzenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Kreuzkümmel",
+          "amount": 2,
+          "unit": "TL"
+        },
+        {
+          "name": "Koriander (gemahlen)",
+          "amount": 2,
+          "unit": "TL"
+        },
+        {
+          "name": "Garam Masala",
+          "amount": 1.5,
+          "unit": "TL"
+        },
+        {
+          "name": "Kurkuma",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Chiliflocken",
+          "amount": 0.5,
+          "unit": "TL"
+        },
+        {
+          "name": "Koriander (frisch)",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Basmati-Reis",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "kartoffelgratin",
+      "name": "Kartoffelgratin",
+      "cuisine": "Französisch",
+      "diet": "vegetarisch",
+      "season": [
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 20,
+      "cook_time_min": 60,
+      "servings": 4,
+      "tags": [
+        "Ofen",
+        "comfort food",
+        "Klassiker",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Kartoffel",
+          "amount": 1200,
+          "unit": "g"
+        },
+        {
+          "name": "Sahne",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Milch",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Gruyère",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 2,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Butter",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "Thymian",
+          "amount": 2,
+          "unit": "Zweige"
+        },
+        {
+          "name": "Muskatnuss",
+          "amount": 0.25,
+          "unit": "TL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1.5,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "kartoffelpuffer",
+      "name": "Kartoffelpuffer (Reibekuchen)",
+      "cuisine": "Deutsch",
+      "diet": "vegetarisch",
+      "season": [
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 20,
+      "cook_time_min": 25,
+      "servings": 4,
+      "tags": [
+        "Deutsch",
+        "Klassiker",
+        "herzhaft",
+        "süßlich"
+      ],
+      "ingredients": [
+        {
+          "name": "Kartoffel",
+          "amount": 1000,
+          "unit": "g"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Ei",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Weizenmehl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Pflanzenöl",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "Apfelmus",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "flammkuchen",
+      "name": "Flammkuchen",
+      "cuisine": "Deutsch",
+      "diet": "vegetarisch",
+      "season": [
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 25,
+      "cook_time_min": 15,
+      "servings": 4,
+      "tags": [
+        "Deutsch",
+        "Backen",
+        "Klassiker",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Weizenmehl",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Wasser",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Crème fraîche",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 3,
+          "unit": "Stück"
+        },
+        {
+          "name": "Schnittlauch",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "schupfnudeln_sauerkraut",
+      "name": "Schupfnudeln mit Sauerkraut",
+      "cuisine": "Deutsch",
+      "diet": "vegan",
+      "season": [
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 35,
+      "cook_time_min": 20,
+      "servings": 4,
+      "tags": [
+        "Deutsch",
+        "Klassiker",
+        "herzhaft",
+        "Kartoffel"
+      ],
+      "ingredients": [
+        {
+          "name": "Kartoffel (mehligkochend)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Weizenmehl",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Kartoffelstärke",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Sauerkraut",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Pflanzenöl",
+          "amount": 4,
+          "unit": "EL"
+        },
+        {
+          "name": "Kümmel",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "blumenkohl_schnitzel",
+      "name": "Blumenkohl-Schnitzel",
+      "cuisine": "Deutsch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 20,
+      "cook_time_min": 20,
+      "servings": 4,
+      "tags": [
+        "Deutsch",
+        "vegan",
+        "knusprig",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Blumenkohl",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Paniermehl",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Weizenmehl",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Pflanzenmilch",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "Paprikapulver",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Knoblauchpulver",
+          "amount": 0.5,
+          "unit": "TL"
+        },
+        {
+          "name": "Pflanzenöl",
+          "amount": 4,
+          "unit": "EL"
+        },
+        {
+          "name": "Zitrone",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "linsenbolognese",
+      "name": "Linsenbolognese",
+      "cuisine": "Italienisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 10,
+      "cook_time_min": 35,
+      "servings": 4,
+      "tags": [
+        "Pasta",
+        "Hülsenfrüchte",
+        "Klassiker",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Spaghetti",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Rote Linsen",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Grüne Linsen",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Karotte",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Staudensellerie",
+          "amount": 2,
+          "unit": "Stangen"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Tomatenmark",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 300,
+          "unit": "ml"
+        },
+        {
+          "name": "Oregano",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "shakshuka",
+      "name": "Shakshuka",
+      "cuisine": "Naher Osten",
+      "diet": "vegetarisch",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 10,
+      "cook_time_min": 25,
+      "servings": 4,
+      "tags": [
+        "Eier",
+        "herzhaft",
+        "Paprika",
+        "süßlich"
+      ],
+      "ingredients": [
+        {
+          "name": "Ei",
+          "amount": 8,
+          "unit": "Stück"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Paprika (rot)",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Kreuzkümmel",
+          "amount": 2,
+          "unit": "TL"
+        },
+        {
+          "name": "Paprikapulver",
+          "amount": 2,
+          "unit": "TL"
+        },
+        {
+          "name": "Feta",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Petersilie",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Chiliflocken",
+          "amount": 0.25,
+          "unit": "TL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "gefuellte_paprika",
+      "name": "Gefüllte Paprika mit Reis",
+      "cuisine": "Deutsch",
+      "diet": "vegan",
+      "season": [
+        "summer",
+        "autumn"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 20,
+      "cook_time_min": 40,
+      "servings": 4,
+      "tags": [
+        "Ofen",
+        "Gemüse",
+        "Reis",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Paprika (rot)",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "name": "Langkornreis",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Kichererbsen (Dose)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 3,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Tomatenmark",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Paprikapulver",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Oregano",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "suesskartoffel_bowl",
+      "name": "Süßkartoffel-Kichererbsen-Bowl",
+      "cuisine": "International",
+      "diet": "vegan",
+      "season": [
+        "autumn",
+        "winter",
+        "spring"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 15,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Bowl",
+        "gesund",
+        "Ofen",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Süßkartoffel",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Kichererbsen (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Spinat (frisch)",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Tahini",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Zitrone",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 2,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Paprikapulver",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Kreuzkümmel",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Basmati-Reis",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "ratatouille",
+      "name": "Ratatouille",
+      "cuisine": "Französisch",
+      "diet": "vegan",
+      "season": [
+        "summer",
+        "autumn"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 20,
+      "cook_time_min": 40,
+      "servings": 4,
+      "tags": [
+        "Französisch",
+        "Gemüse",
+        "Ofen",
+        "mediterran"
+      ],
+      "ingredients": [
+        {
+          "name": "Aubergine",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zucchini",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Paprika (rot)",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Tomate",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 4,
+          "unit": "EL"
+        },
+        {
+          "name": "Thymian",
+          "amount": 2,
+          "unit": "Zweige"
+        },
+        {
+          "name": "Rosmarin",
+          "amount": 1,
+          "unit": "Zweig"
+        },
+        {
+          "name": "Basilikum",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "blumenkohl_tahini",
+      "name": "Gebackener Blumenkohl mit Tahini",
+      "cuisine": "Naher Osten",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 10,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Ofen",
+        "Blumenkohl",
+        "gesund",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Blumenkohl",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Tahini",
+          "amount": 4,
+          "unit": "EL"
+        },
+        {
+          "name": "Zitrone",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 2,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Kreuzkümmel",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Paprikapulver",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Petersilie",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Pita-Brot",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "gemuese_quiche",
+      "name": "Gemüsequiche",
+      "cuisine": "Französisch",
+      "diet": "vegetarisch",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 30,
+      "cook_time_min": 45,
+      "servings": 4,
+      "tags": [
+        "Backen",
+        "Quiche",
+        "Ofen",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Weizenmehl",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Butter",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "name": "Wasser",
+          "amount": 4,
+          "unit": "EL"
+        },
+        {
+          "name": "Ei",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "name": "Sahne",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Zucchini",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Paprika (bunt)",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Emmentaler",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Muskatnuss",
+          "amount": 0.25,
+          "unit": "TL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "melanzane_parmigiana",
+      "name": "Melanzane alla Parmigiana",
+      "cuisine": "Italienisch",
+      "diet": "vegetarisch",
+      "season": [
+        "summer",
+        "autumn"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 30,
+      "cook_time_min": 45,
+      "servings": 4,
+      "tags": [
+        "Italienisch",
+        "Ofen",
+        "Aubergine",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Aubergine",
+          "amount": 3,
+          "unit": "Stück"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Mozzarella",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Parmesan",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Basilikum",
+          "amount": 1,
+          "unit": "Bund"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 5,
+          "unit": "EL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1.5,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "gemuese_frittata",
+      "name": "Gemüse-Frittata",
+      "cuisine": "Italienisch",
+      "diet": "vegetarisch",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 15,
+      "cook_time_min": 20,
+      "servings": 4,
+      "tags": [
+        "Eier",
+        "schnell",
+        "gesund",
+        "vielseitig"
+      ],
+      "ingredients": [
+        {
+          "name": "Ei",
+          "amount": 8,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zucchini",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Paprika (rot)",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Spinat (frisch)",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Feta",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Milch",
+          "amount": 50,
+          "unit": "ml"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "kartoffelauflauf",
+      "name": "Kartoffelauflauf",
+      "cuisine": "Deutsch",
+      "diet": "vegetarisch",
+      "season": [
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 20,
+      "cook_time_min": 50,
+      "servings": 4,
+      "tags": [
+        "Deutsch",
+        "Ofen",
+        "comfort food",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Kartoffel",
+          "amount": 1000,
+          "unit": "g"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Emmentaler",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Sahne",
+          "amount": 300,
+          "unit": "ml"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Butter",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "Paprikapulver",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Thymian",
+          "amount": 2,
+          "unit": "Zweige"
+        },
+        {
+          "name": "Muskatnuss",
+          "amount": 0.25,
+          "unit": "TL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "quinoa_paprika",
+      "name": "Quinoa-gefüllte Paprika",
+      "cuisine": "International",
+      "diet": "vegan",
+      "season": [
+        "summer",
+        "autumn"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 20,
+      "cook_time_min": 35,
+      "servings": 4,
+      "tags": [
+        "Ofen",
+        "Quinoa",
+        "gesund",
+        "bunt"
+      ],
+      "ingredients": [
+        {
+          "name": "Paprika (bunt)",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "name": "Quinoa",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Kichererbsen (Dose)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Tomate",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 2,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Kreuzkümmel",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Paprikapulver",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Petersilie",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "falafel_hummus",
+      "name": "Falafel mit Hummus und Pita",
+      "cuisine": "Naher Osten",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 30,
+      "cook_time_min": 20,
+      "servings": 4,
+      "tags": [
+        "Naher Osten",
+        "Hülsenfrüchte",
+        "herzhaft",
+        "knusprig"
+      ],
+      "ingredients": [
+        {
+          "name": "Kichererbsen (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Petersilie",
+          "amount": 1,
+          "unit": "Bund"
+        },
+        {
+          "name": "Koriander (frisch)",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Kreuzkümmel",
+          "amount": 2,
+          "unit": "TL"
+        },
+        {
+          "name": "Koriander (gemahlen)",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Weizenmehl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Pflanzenöl",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "Tahini",
+          "amount": 4,
+          "unit": "EL"
+        },
+        {
+          "name": "Zitrone",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Pita-Brot",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "burrito_bowl",
+      "name": "Mexikanische Burrito-Bowl",
+      "cuisine": "Mexikanisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 20,
+      "cook_time_min": 25,
+      "servings": 4,
+      "tags": [
+        "Mexikanisch",
+        "Reis",
+        "Hülsenfrüchte",
+        "bunt"
+      ],
+      "ingredients": [
+        {
+          "name": "Langkornreis",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Kidneybohnen (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Mais (Dose)",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Paprika (bunt)",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Tomate",
+          "amount": 3,
+          "unit": "Stück"
+        },
+        {
+          "name": "Avocado",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Rote Zwiebel",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Limette",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Kreuzkümmel",
+          "amount": 2,
+          "unit": "TL"
+        },
+        {
+          "name": "Paprikapulver (geräuchert)",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Koriander (frisch)",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "vegane_tacos",
+      "name": "Vegane Tacos",
+      "cuisine": "Mexikanisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 20,
+      "cook_time_min": 20,
+      "servings": 4,
+      "tags": [
+        "Mexikanisch",
+        "Hülsenfrüchte",
+        "schnell",
+        "bunt"
+      ],
+      "ingredients": [
+        {
+          "name": "Taco-Shells",
+          "amount": 12,
+          "unit": "Stück"
+        },
+        {
+          "name": "Kidneybohnen (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Mais (Dose)",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Paprika (rot)",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Tomate",
+          "amount": 3,
+          "unit": "Stück"
+        },
+        {
+          "name": "Avocado",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Rote Zwiebel",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Limette",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Kreuzkümmel",
+          "amount": 2,
+          "unit": "TL"
+        },
+        {
+          "name": "Paprikapulver",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Koriander (frisch)",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "spanakopita",
+      "name": "Spanakopita",
+      "cuisine": "Griechisch",
+      "diet": "vegetarisch",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 30,
+      "cook_time_min": 35,
+      "servings": 4,
+      "tags": [
+        "Griechisch",
+        "Backen",
+        "Spinat",
+        "Blätterteig"
+      ],
+      "ingredients": [
+        {
+          "name": "Filoteig",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Blattspinat (TK)",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Feta",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Ei",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 3,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 5,
+          "unit": "EL"
+        },
+        {
+          "name": "Muskatnuss",
+          "amount": 0.25,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        },
+        {
+          "name": "Salz",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "griechischer_salat",
+      "name": "Griechischer Salat mit Pita",
+      "cuisine": "Griechisch",
+      "diet": "vegetarisch",
+      "season": [
+        "spring",
+        "summer"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 15,
+      "cook_time_min": 5,
+      "servings": 4,
+      "tags": [
+        "Salat",
+        "Sommer",
+        "frisch",
+        "leicht"
+      ],
+      "ingredients": [
+        {
+          "name": "Tomate",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Gurke",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Paprika (grün)",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Rote Zwiebel",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Feta",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Oliven (schwarz)",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 4,
+          "unit": "EL"
+        },
+        {
+          "name": "Rotweinessig",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Oregano",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Pita-Brot",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "name": "Salz",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "halloumi_wrap",
+      "name": "Halloumi-Wrap",
+      "cuisine": "International",
+      "diet": "vegetarisch",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 15,
+      "cook_time_min": 15,
+      "servings": 4,
+      "tags": [
+        "Wrap",
+        "Halloumi",
+        "schnell",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Halloumi",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Weizentortillas (groß)",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "name": "Paprika (rot)",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Gurke",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Tomate",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Rote Zwiebel",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Joghurt",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 1,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Minze",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Zitrone",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Salz",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "buddha_bowl",
+      "name": "Buddha Bowl",
+      "cuisine": "International",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 20,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Bowl",
+        "gesund",
+        "bunt",
+        "Ofen"
+      ],
+      "ingredients": [
+        {
+          "name": "Quinoa",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Kichererbsen (Dose)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Süßkartoffel",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Avocado",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Spinat (frisch)",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Karotte",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Rote Bete (vorgekocht)",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Tahini",
+          "amount": 4,
+          "unit": "EL"
+        },
+        {
+          "name": "Zitrone",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Sesam",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "panzanella",
+      "name": "Panzanella",
+      "cuisine": "Italienisch",
+      "diet": "vegan",
+      "season": [
+        "summer"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 20,
+      "cook_time_min": 10,
+      "servings": 4,
+      "tags": [
+        "Salat",
+        "Sommer",
+        "frisch",
+        "Brot"
+      ],
+      "ingredients": [
+        {
+          "name": "Baguette",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Tomate",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Gurke",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Rote Zwiebel",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Basilikum",
+          "amount": 1,
+          "unit": "Bund"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 2,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Kapern",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 5,
+          "unit": "EL"
+        },
+        {
+          "name": "Rotweinessig",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "gebratener_reis",
+      "name": "Gebratener Reis mit Ei",
+      "cuisine": "Asiatisch",
+      "diet": "vegetarisch",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 10,
+      "cook_time_min": 15,
+      "servings": 4,
+      "tags": [
+        "Asiatisch",
+        "Reis",
+        "schnell",
+        "einfach"
+      ],
+      "ingredients": [
+        {
+          "name": "Langkornreis",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Ei",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "name": "Karotte",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Erbsen (TK)",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Frühlingszwiebeln",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 3,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Ingwer (frisch)",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "name": "Sojasauce",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Sesamöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Pflanzenöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Sesam",
+          "amount": 1,
+          "unit": "EL"
+        }
+      ]
+    },
+    {
+      "id": "marokkanisches_tagine",
+      "name": "Marokkanisches Gemüse-Tagine",
+      "cuisine": "Nordafrikanisch",
+      "diet": "vegan",
+      "season": [
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 20,
+      "cook_time_min": 40,
+      "servings": 4,
+      "tags": [
+        "Marokkanisch",
+        "Eintopf",
+        "herzhaft",
+        "würzig",
+        "süßlich"
+      ],
+      "ingredients": [
+        {
+          "name": "Kichererbsen (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Karotte",
+          "amount": 3,
+          "unit": "Stück"
+        },
+        {
+          "name": "Süßkartoffel",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Kreuzkümmel",
+          "amount": 2,
+          "unit": "TL"
+        },
+        {
+          "name": "Koriander (gemahlen)",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Kurkuma",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Ingwer (gemahlen)",
+          "amount": 0.5,
+          "unit": "TL"
+        },
+        {
+          "name": "Paprikapulver (geräuchert)",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Oliven (grün)",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "Couscous",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "pilzrisotto",
+      "name": "Pilzrisotto",
+      "cuisine": "Italienisch",
+      "diet": "vegetarisch",
+      "season": [
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 15,
+      "cook_time_min": 35,
+      "servings": 4,
+      "tags": [
+        "Italienisch",
+        "Risotto",
+        "Pilze",
+        "cremig",
+        "umami"
+      ],
+      "ingredients": [
+        {
+          "name": "Arborio-Reis",
+          "amount": 320,
+          "unit": "g"
+        },
+        {
+          "name": "Pilze (gemischt)",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 3,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 1200,
+          "unit": "ml"
+        },
+        {
+          "name": "Weißwein",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "Butter",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Parmesan",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Thymian",
+          "amount": 2,
+          "unit": "Zweige"
+        },
+        {
+          "name": "Petersilie",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "couscous_roestgemuese",
+      "name": "Couscous mit Röstgemüse",
+      "cuisine": "Nordafrikanisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 15,
+      "cook_time_min": 25,
+      "servings": 4,
+      "tags": [
+        "Couscous",
+        "Ofen",
+        "gesund",
+        "leicht"
+      ],
+      "ingredients": [
+        {
+          "name": "Couscous",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Zucchini",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Paprika (bunt)",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Aubergine",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Kichererbsen (Dose)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 4,
+          "unit": "EL"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 350,
+          "unit": "ml"
+        },
+        {
+          "name": "Harissa",
+          "amount": 1,
+          "unit": "EL"
+        },
+        {
+          "name": "Zitrone",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Petersilie",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "bulgur_pfanne",
+      "name": "Bulgur-Gemüse-Pfanne",
+      "cuisine": "Türkisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 10,
+      "cook_time_min": 25,
+      "servings": 4,
+      "tags": [
+        "Türkisch",
+        "schnell",
+        "gesund",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Bulgur",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Paprika (bunt)",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zucchini",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Tomate",
+          "amount": 3,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 3,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Tomatenmark",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 600,
+          "unit": "ml"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Paprikapulver",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Petersilie",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "linsencurry_suesskartoffel",
+      "name": "Linsencurry mit Süßkartoffel",
+      "cuisine": "Indisch",
+      "diet": "vegan",
+      "season": [
+        "autumn",
+        "winter",
+        "spring"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 15,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Curry",
+        "Indisch",
+        "Hülsenfrüchte",
+        "herzhaft",
+        "süßlich"
+      ],
+      "ingredients": [
+        {
+          "name": "Rote Linsen",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Süßkartoffel",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Kokosmilch",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Ingwer (frisch)",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "Pflanzenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Currypulver",
+          "amount": 2,
+          "unit": "TL"
+        },
+        {
+          "name": "Kurkuma",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Garam Masala",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Basmati-Reis",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "walnuss_pilz_bolognese",
+      "name": "Walnuss-Pilz-Bolognese",
+      "cuisine": "Italienisch",
+      "diet": "vegan",
+      "season": [
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 15,
+      "cook_time_min": 35,
+      "servings": 4,
+      "tags": [
+        "Pasta",
+        "Pilze",
+        "herzhaft",
+        "umami"
+      ],
+      "ingredients": [
+        {
+          "name": "Spaghetti",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Pilze (braun)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Walnüsse",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Karotte",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Tomatenmark",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Sojasauce",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Rosmarin",
+          "amount": 1,
+          "unit": "Zweig"
+        },
+        {
+          "name": "Oregano",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "spanische_tortilla",
+      "name": "Spanische Tortilla",
+      "cuisine": "Spanisch",
+      "diet": "vegetarisch",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 20,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Spanisch",
+        "Eier",
+        "Kartoffel",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Kartoffel",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Ei",
+          "amount": 6,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "menemen",
+      "name": "Menemen",
+      "cuisine": "Türkisch",
+      "diet": "vegetarisch",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 10,
+      "cook_time_min": 20,
+      "servings": 4,
+      "tags": [
+        "Türkisch",
+        "Eier",
+        "schnell",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Ei",
+          "amount": 8,
+          "unit": "Stück"
+        },
+        {
+          "name": "Tomate",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Paprika (grün)",
+          "amount": 3,
+          "unit": "Stück"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Paprikapulver",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Chiliflocken",
+          "amount": 0.25,
+          "unit": "TL"
+        },
+        {
+          "name": "Petersilie",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "saag_aloo",
+      "name": "Saag Aloo",
+      "cuisine": "Indisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 15,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Indisch",
+        "Kartoffel",
+        "Spinat",
+        "herzhaft"
+      ],
+      "ingredients": [
+        {
+          "name": "Kartoffel",
+          "amount": 700,
+          "unit": "g"
+        },
+        {
+          "name": "Blattspinat (TK)",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Ingwer (frisch)",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "Pflanzenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Kreuzkümmel",
+          "amount": 2,
+          "unit": "TL"
+        },
+        {
+          "name": "Koriander (gemahlen)",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Kurkuma",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Garam Masala",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Basmati-Reis",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "thai_kokossuppe",
+      "name": "Thai-Kokossuppe",
+      "cuisine": "Thailändisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 15,
+      "cook_time_min": 25,
+      "servings": 4,
+      "tags": [
+        "Asiatisch",
+        "Suppe",
+        "Kokosmilch",
+        "cremig"
+      ],
+      "ingredients": [
+        {
+          "name": "Kokosmilch",
+          "amount": 800,
+          "unit": "ml"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 600,
+          "unit": "ml"
+        },
+        {
+          "name": "Tofu (fest)",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Pilze (braun)",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Zitronengras",
+          "amount": 2,
+          "unit": "Stangen"
+        },
+        {
+          "name": "Ingwer (frisch)",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 3,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Sojasauce",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Sesamöl",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Limette",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Frühlingszwiebeln",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "name": "Reisnudeln (breit)",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Chiliflocken",
+          "amount": 0.25,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "vietnamesische_nudelsuppe",
+      "name": "Vietnamesische Nudelsuppe (Pho-Art)",
+      "cuisine": "Vietnamesisch",
+      "diet": "vegan",
+      "season": [
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 20,
+      "cook_time_min": 40,
+      "servings": 4,
+      "tags": [
+        "Asiatisch",
+        "Suppe",
+        "Nudeln",
+        "aromatisch"
+      ],
+      "ingredients": [
+        {
+          "name": "Reisnudeln (breit)",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 1500,
+          "unit": "ml"
+        },
+        {
+          "name": "Tofu (fest)",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Sojasprossen",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Frühlingszwiebeln",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "name": "Ingwer (frisch)",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 3,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Sojasauce",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Sternanis",
+          "amount": 3,
+          "unit": "Stück"
+        },
+        {
+          "name": "Limette",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Koriander (frisch)",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Minze",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "name": "Chiliflocken",
+          "amount": 0.25,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "erbsen_minz_risotto",
+      "name": "Erbsen-Minz-Risotto",
+      "cuisine": "Italienisch",
+      "diet": "vegetarisch",
+      "season": [
+        "spring",
+        "summer"
+      ],
+      "cost_category": "medium",
+      "prep_time_min": 10,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Italienisch",
+        "Risotto",
+        "frisch",
+        "Frühling"
+      ],
+      "ingredients": [
+        {
+          "name": "Arborio-Reis",
+          "amount": 320,
+          "unit": "g"
+        },
+        {
+          "name": "Erbsen (TK)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Gemüsebrühe",
+          "amount": 1200,
+          "unit": "ml"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 2,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Weißwein",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "Butter",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "Parmesan",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Minze",
+          "amount": 1,
+          "unit": "Bund"
+        },
+        {
+          "name": "Olivenöl",
+          "amount": 2,
+          "unit": "EL"
+        },
+        {
+          "name": "Zitrone",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Schwarzer Pfeffer",
+          "amount": 0.5,
+          "unit": "TL"
+        }
+      ]
+    },
+    {
+      "id": "blumenkohlcurry",
+      "name": "Blumenkohlcurry mit Kichererbsen",
+      "cuisine": "Indisch",
+      "diet": "vegan",
+      "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "cost_category": "budget",
+      "prep_time_min": 15,
+      "cook_time_min": 30,
+      "servings": 4,
+      "tags": [
+        "Indisch",
+        "Curry",
+        "Blumenkohl",
+        "Hülsenfrüchte"
+      ],
+      "ingredients": [
+        {
+          "name": "Blumenkohl",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "name": "Kichererbsen (Dose)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Tomaten, gehackt (Dose)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Kokosmilch",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Zwiebel",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "name": "Knoblauch",
+          "amount": 4,
+          "unit": "Zehen"
+        },
+        {
+          "name": "Ingwer (frisch)",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "Pflanzenöl",
+          "amount": 3,
+          "unit": "EL"
+        },
+        {
+          "name": "Currypulver",
+          "amount": 2,
+          "unit": "TL"
+        },
+        {
+          "name": "Kurkuma",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Garam Masala",
+          "amount": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Basmati-Reis",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "TL"
+        }
+      ]
+    }
+  ]
+}
