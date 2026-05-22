@@ -1,0 +1,11 @@
+<span class="stars-widget flex gap-0.5" id="stars-{{ recipe_id }}">
+  {% for n in [1, 2, 3, 4, 5] %}
+  <button
+    hx-post="/rate"
+    hx-target="#stars-{{ recipe_id }}"
+    hx-swap="outerHTML"
+    hx-vals='{"recipe_id": "{{ recipe_id }}", "stars": "{{ n }}"}'
+    class="text-lg leading-none transition-colors {% if n <= rating %}text-yellow-400{% else %}text-gray-200{% endif %} hover:text-yellow-300"
+    aria-label="{{ n }} star">&#9733;</button>
+  {% endfor %}
+</span>

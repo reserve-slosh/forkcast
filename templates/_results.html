@@ -1,0 +1,110 @@
+<!-- Recipe cards -->
+<div class="grid md:grid-cols-3 gap-4 mb-6">
+  {% for r in meal_set %}
+  <div class="bg-white rounded-2xl shadow-sm border border-gray-200 p-5 flex flex-col cursor-pointer"
+       hx-get="/recipe/{{ r.id }}"
+       hx-target="#modal-content"
+       hx-swap="innerHTML">
+
+    <div class="flex gap-2 mb-3 flex-wrap">
+      {% if r.diet == 'vegan' %}
+        <span class="bg-green-100 text-green-700 text-xs font-semibold px-2.5 py-0.5 rounded-full">vegan</span>
+      {% else %}
+        <span class="bg-yellow-100 text-yellow-700 text-xs font-semibold px-2.5 py-0.5 rounded-full">vegetarisch</span>
+      {% endif %}
+      {% if r.cost_category == 'budget' %}
+        <span class="bg-blue-100 text-blue-700 text-xs font-semibold px-2.5 py-0.5 rounded-full">$</span>
+      {% else %}
+        <span class="bg-orange-100 text-orange-700 text-xs font-semibold px-2.5 py-0.5 rounded-full">$$</span>
+      {% endif %}
+    </div>
+
+    <h3 class="font-semibold text-base leading-snug mb-1">{{ r.name }}</h3>
+    <p class="text-sm text-gray-500 mb-3">
+      {{ r.cuisine }} &middot; {{ r.prep_time_min + r.cook_time_min }} min
+    </p>
+
+    <div class="flex flex-wrap gap-1 mt-auto mb-3">
+      {% for tag in r.tags[:4] %}
+        <span class="bg-gray-100 text-gray-500 text-xs px-2 py-0.5 rounded-full">{{ tag }}</span>
+      {% endfor %}
+    </div>
+
+    {% set recipe_id = r.id %}
+    {% set rating = ratings.get(r.id, 0) %}
+    {% include '_stars.html' %}
+
+    <p class="text-xs text-gray-300 mt-2 font-mono">{{ r.id }}</p>
+  </div>
+  {% endfor %}
+</div>
+
+<!-- Week cost estimate + commit -->
+{% set budget_count = meal_set | selectattr('cost_category', 'equalto', 'budget') | list | length %}
+{% set medium_count = meal_set | selectattr('cost_category', 'equalto', 'medium') | list | length %}
+<p class="text-sm text-gray-500 mb-3">
+  Week estimate:
+  <span class="font-semibold text-blue-600">{{ budget_count }} budget</span> &middot;
+  <span class="font-semibold text-orange-500">{{ medium_count }} medium</span>
+</p>
+
+<form hx-post="/commit"
+      hx-target="#results"
+      hx-swap="innerHTML"
+      class="flex items-center gap-4 mb-8">
+  <input type="hidden" name="recipe_ids"
+         value="{{ meal_set | map(attribute='id') | join(',') }}">
+  <button type="submit"
+          class="bg-emerald-600 hover:bg-emerald-700 active:bg-emerald-800 text-white px-5 py-2 rounded-lg text-sm font-semibold transition-colors">
+    Commit this week's plan
+  </button>
+  <span class="text-sm text-gray-400">Week {{ state.week }}</span>
+</form>
+
+<!-- Shopping list -->
+<div class="bg-white rounded-2xl shadow-sm border border-gray-200 p-6">
+  <h2 class="text-lg font-semibold mb-4">Shopping List</h2>
+
+  {% if shopping %}
+    {% for category, items in shopping | groupby('category') %}
+      <h3 class="text-xs font-bold text-gray-400 uppercase tracking-widest mt-5 mb-2 first:mt-0">
+        {{ category }}
+      </h3>
+      {% for item in items %}
+        <div class="flex justify-between items-center py-2 border-b border-gray-50 last:border-0">
+          <label class="flex items-center gap-2 text-sm cursor-pointer">
+            <input type="checkbox"
+                   class="shopping-check accent-indigo-500"
+                   data-item="{{ item.name }}"
+                   onchange="toggleShoppingItem(this)">
+            <span class="item-label">{{ item.name }}</span>
+          </label>
+          <span class="text-sm text-gray-400 tabular-nums ml-4">
+            {{ item.packages }}&times; {{ item.package_size }}{{ item.unit }}
+          </span>
+        </div>
+      {% endfor %}
+    {% endfor %}
+  {% else %}
+    <p class="text-sm text-gray-400">All ingredients covered by leftovers.</p>
+  {% endif %}
+</div>
+
+<script>
+  function toggleShoppingItem(cb) {
+    var label = cb.parentElement.querySelector(".item-label");
+    if (cb.checked) {
+      localStorage.setItem("fc_" + cb.dataset.item, "1");
+      label.classList.add("line-through", "text-gray-300");
+    } else {
+      localStorage.removeItem("fc_" + cb.dataset.item);
+      label.classList.remove("line-through", "text-gray-300");
+    }
+  }
+  document.querySelectorAll(".shopping-check").forEach(function(cb) {
+    if (localStorage.getItem("fc_" + cb.dataset.item)) {
+      cb.checked = true;
+      cb.parentElement.querySelector(".item-label").classList.add("line-through", "text-gray-300");
+    }
+  });
+</script>

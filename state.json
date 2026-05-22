@@ -1,0 +1,182 @@
+{
+  "week": 21,
+  "leftovers": {
+    "Kartoffel": {
+      "amount": 1200.0,
+      "unit": "g",
+      "expires": "2026-06-19"
+    },
+    "Ei": {
+      "amount": 4.0,
+      "unit": "Stück",
+      "expires": "2026-06-17"
+    },
+    "Zwiebel": {
+      "amount": 996.0,
+      "unit": "g",
+      "expires": "2026-06-19"
+    },
+    "Olivenöl": {
+      "amount": 743.0,
+      "unit": "ml",
+      "expires": "2027-05-20"
+    },
+    "Karotte": {
+      "amount": 198.0,
+      "unit": "g",
+      "expires": "2026-06-03"
+    },
+    "Ingwer (frisch)": {
+      "amount": 10.0,
+      "unit": "g",
+      "expires": "2026-06-03"
+    },
+    "Knoblauch": {
+      "amount": 32.0,
+      "unit": "g",
+      "expires": "2026-06-10"
+    },
+    "Kokosmilch": {
+      "amount": 200.0,
+      "unit": "ml",
+      "expires": "2028-05-19"
+    },
+    "Gemüsebrühe": {
+      "amount": 900.0,
+      "unit": "ml",
+      "expires": "2027-05-20"
+    },
+    "Limette": {
+      "amount": 2.0,
+      "unit": "Stück",
+      "expires": "2026-06-03"
+    },
+    "Tofu (fest)": {
+      "amount": 300.0,
+      "unit": "g",
+      "expires": "2026-05-25"
+    },
+    "Brokkoli": {
+      "amount": 100.0,
+      "unit": "g",
+      "expires": "2026-05-25"
+    },
+    "Paprika (rot)": {
+      "amount": 599.0,
+      "unit": "g",
+      "expires": "2026-05-27"
+    },
+    "Erdnussbutter": {
+      "amount": 346.0,
+      "unit": "g",
+      "expires": "2026-11-16"
+    },
+    "Sojasauce": {
+      "amount": 147.0,
+      "unit": "ml",
+      "expires": "2027-05-20"
+    },
+    "Sesamöl": {
+      "amount": 249.0,
+      "unit": "ml",
+      "expires": "2027-05-20"
+    },
+    "Frühlingszwiebeln": {
+      "amount": 96.0,
+      "unit": "g",
+      "expires": "2026-05-25"
+    },
+    "Sesam": {
+      "amount": 123.0,
+      "unit": "g",
+      "expires": "2026-11-16"
+    },
+    "Basmati-Reis": {
+      "amount": 100.0,
+      "unit": "g",
+      "expires": "2028-05-19"
+    },
+    "Rote Linsen": {
+      "amount": 400.0,
+      "unit": "g",
+      "expires": "2027-05-20"
+    },
+    "Pflanzenöl": {
+      "amount": 997.0,
+      "unit": "ml",
+      "expires": "2027-05-20"
+    },
+    "Penne": {
+      "amount": 200.0,
+      "unit": "g",
+      "expires": "2028-05-19"
+    },
+    "Tomatenmark": {
+      "amount": 198.0,
+      "unit": "g",
+      "expires": "2026-06-03"
+    },
+    "Couscous": {
+      "amount": 400.0,
+      "unit": "g",
+      "expires": "2027-05-20"
+    },
+    "Zucchini": {
+      "amount": 598.0,
+      "unit": "g",
+      "expires": "2026-05-27"
+    },
+    "Paprika (bunt)": {
+      "amount": 598.0,
+      "unit": "g",
+      "expires": "2026-05-27"
+    },
+    "Aubergine": {
+      "amount": 299.0,
+      "unit": "g",
+      "expires": "2026-05-27"
+    },
+    "Harissa": {
+      "amount": 129.0,
+      "unit": "g",
+      "expires": "2026-11-16"
+    },
+    "Zitrone": {
+      "amount": 2.0,
+      "unit": "Stück",
+      "expires": "2026-06-03"
+    }
+  },
+  "history": [
+    {
+      "date": "2026-05-20",
+      "week": 21,
+      "recipes": [
+        "spanische_tortilla",
+        "moehren_ingwer_suppe",
+        "tofu_erdnuss_pfanne"
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "week": 21,
+      "recipes": [
+        "dal_tadka",
+        "pasta_tomatensosse",
+        "couscous_roestgemuese"
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "week": 21,
+      "recipes": [
+        "dal_tadka",
+        "pasta_tomatensosse",
+        "couscous_roestgemuese"
+      ]
+    }
+  ],
+  "ratings": {
+    "pasta_tomatensosse": 3
+  }
+}

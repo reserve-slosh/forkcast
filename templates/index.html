@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ForkCast</title>
+  <script src="https://unpkg.com/htmx.org@1.9.10"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    .htmx-indicator { display: none; }
+    .htmx-request .htmx-indicator { display: inline; }
+  </style>
+</head>
+<body class="bg-gray-50 text-gray-800 min-h-screen">
+  <div class="max-w-4xl mx-auto px-4 py-10">
+
+    <div class="mb-8">
+      <h1 class="text-3xl font-bold tracking-tight">ForkCast</h1>
+      <p class="text-gray-500 mt-1">Weekly vegetarian meal planner</p>
+    </div>
+
+    <form hx-post="/plan"
+          hx-target="#results"
+          hx-swap="innerHTML"
+          hx-indicator="#spinner"
+          class="bg-white rounded-2xl shadow-sm border border-gray-200 p-6 mb-8">
+      <div class="flex flex-wrap gap-4 items-end">
+
+        <div>
+          <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">
+            Profile
+          </label>
+          <select name="profile"
+                  class="border border-gray-300 rounded-lg px-3 py-2 text-sm bg-white focus:outline-none focus:ring-2 focus:ring-indigo-400">
+            <option value="">Auto-detect</option>
+            <option value="weekday">Weekday</option>
+            <option value="weekend">Weekend</option>
+          </select>
+        </div>
+
+        <div class="flex-1 min-w-52">
+          <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">
+            Exclude recipe IDs
+          </label>
+          <input type="text" name="blacklist"
+                 placeholder="e.g. dal_tadka, spaghetti_aglio_olio"
+                 class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-400">
+        </div>
+
+        <div class="flex-1 min-w-40">
+          <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">
+            Fix one recipe (ID)
+          </label>
+          <input type="text" name="fixture"
+                 placeholder="e.g. dal_tadka"
+                 class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-400">
+        </div>
+
+        <div class="flex items-center gap-3">
+          <button type="submit"
+                  class="bg-indigo-600 hover:bg-indigo-700 active:bg-indigo-800 text-white px-5 py-2 rounded-lg text-sm font-semibold transition-colors">
+            Regenerate
+          </button>
+          <span id="spinner" class="htmx-indicator text-sm text-gray-400">Planning…</span>
+        </div>
+
+      </div>
+    </form>
+
+    <div id="results">
+      {% include '_results.html' %}
+    </div>
+
+    {% if state.history %}
+    <div class="mt-10">
+      <h2 class="text-xl font-semibold mb-4">Past Meals</h2>
+      {% for entry in state.history | reverse %}
+      <div class="bg-white rounded-2xl border border-gray-200 shadow-sm p-5 mb-3">
+        <p class="text-xs font-semibold text-gray-400 uppercase tracking-wide mb-2">
+          {{ human_date(entry.date) }}
+        </p>
+        <ul class="space-y-2">
+          {% for rid in entry.recipes %}
+          {% set r = recipe_map.get(rid) %}
+          {% if r %}
+          <li class="flex items-center gap-3 flex-wrap">
+            <button hx-get="/recipe/{{ rid }}"
+                    hx-target="#modal-content"
+                    hx-swap="innerHTML"
+                    class="text-sm text-indigo-600 hover:underline text-left">{{ r.name }}</button>
+            {% set recipe_id = rid %}
+            {% set rating = ratings.get(rid, 0) %}
+            {% include '_stars.html' %}
+            <button hx-post="/plan"
+                    hx-target="#results"
+                    hx-swap="innerHTML"
+                    hx-include="[name=profile],[name=blacklist]"
+                    hx-vals='{"fixture": "{{ rid }}"}'
+                    class="ml-auto text-xs text-gray-400 hover:text-indigo-500 border border-gray-200 rounded px-2 py-0.5 transition-colors">
+              Cook again
+            </button>
+          </li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <!-- Native dialog for recipe detail -->
+    <dialog id="recipe-modal"
+            class="rounded-2xl shadow-xl border border-gray-200 p-0 w-full max-w-lg backdrop:bg-black/40"
+            onclick="if(event.target===this)this.close()">
+      <div id="modal-content"></div>
+    </dialog>
+
+  </div>
+
+  <script>
+    document.body.addEventListener("htmx:afterSwap", function(e) {
+      if (e.detail.target.id === "modal-content") {
+        document.getElementById("recipe-modal").showModal();
+      }
+    });
+  </script>
+</body>
+</html>
